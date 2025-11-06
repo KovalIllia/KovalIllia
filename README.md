@@ -13,7 +13,7 @@
 
 ---
 
-### **What I do**
+### **What I do**  
 - Strong background in Manual QA, focusing on functional, regression, integration, and exploratory testing.  
 - Building clean and maintainable automation frameworks** in Python using Pytest, Selenium, and Playwright.  
 - Experienced with API testing and backend validation (Postman, Requests, JSON Schema).  
