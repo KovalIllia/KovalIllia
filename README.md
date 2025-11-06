@@ -8,30 +8,24 @@
 
 <h1 align="center">Hi there!
 
-I’m Illia Koval — a QA engineer dedicated to test automation for backend and web applications.
+- 💻 I’m Illia Koval — a QA engineer dedicated to test automation for backend and web applications.
 
-What I do
+## What I do
 
-Design and build clean, maintainable automation frameworks using Python (Pytest, Selenium, Playwright) and API testing tools.
+- Design and build clean, maintainable automation frameworks using Python (Pytest, Selenium, Playwright) and API testing tools.
+- Integrate UI and API automation to cover full-stack quality assurance.
+- Use C# as a secondary technology, working with NUnit, RestSharp and Selenium WebDriver for REST API and UI tests.
+- Drive continuous improvement through Git, Docker, CI/CD pipelines and best practices in test architecture.
 
-Integrate UI and API automation to cover full-stack quality assurance.
+## Skills & Technologies
 
-Use C# as a secondary technology, working with NUnit, RestSharp and Selenium WebDriver for REST API and UI tests.
+- Languages: Python (main), C# (secondary)
+- Automation & Testing: Pytest • Selenium • Playwright • NUnit • RestSharp • JSON Schema Validation • REST API Testing
+- Infrastructure: Docker • Git • CI/CD • Page Object Model
 
-Drive continuous improvement through Git, Docker, CI/CD pipelines and best practices in test architecture.
-
-Skills & Technologies
-
-Languages: Python (main), C# (secondary)
-
-Automation & Testing: Pytest • Selenium • Playwright • NUnit • RestSharp • JSON Schema Validation • REST API Testing
-
-Infrastructure: Docker • Git • CI/CD • Page Object Model
-
-Domains: Backend / FinTech / Web Applications
+## Domains: Backend / FinTech / Web Applications
 
 Let’s connect
-
 Feel free to explore my repositories and reach out if you’re working on challenging testing problems or simply want to talk automation.</h1>
 
 ###
